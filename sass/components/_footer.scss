@@ -2,22 +2,22 @@
 .footer {
   height: 252px;
   background: #2f303a;
-
-&-nav {
+}
+.footer-nav {
   display: flex;
   align-items: baseline;
   padding-top: 60px;
   padding-bottom: 60px;
  }
 
-&-wrapper {
+.footer-wrapper {
   margin-right: 69px;
  }
-
-&-logo {
+ 
+.footer-logo {
   margin-bottom: 20px;
+  
  }
-}
 
 .address-item:not(:last-child) {
   margin-bottom: 9px;
