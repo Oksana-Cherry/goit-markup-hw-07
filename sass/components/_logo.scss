@@ -1,0 +1,17 @@
+/* header:лого(лого2 белый,страницы*/
+.logo-1, .web{
+  font-family: $logo-font;
+  font-size: 26px;
+  line-height: 0.84;
+  color: $logo-color;
+}
+.web {
+  color: $accent-color;
+}
+
+.logo-2 {
+  font-family: $logo-font;
+  font-size: 26px;
+  line-height: 0.84;
+  color: $text-fon;
+}
